@@ -4,7 +4,7 @@ The year is 2065 and you're at a glamorous ball with the finest of high society.
 
 Luckily you are prepared and ask your neural implant to generate a wine tasting description. You proceed to share it outloud with your circle of friends, frenemies, acquaintances, and whoever else is standing around. They nod at your wine-tasting wisdom and declare you an expert sommelier! 
 
-(This is a just-for-fun project that aimed to develop an LSTM that generates wine tasting descriptions.)
+(This is a just-for-fun python3 project that aimed to develop an LSTM that generates wine tasting descriptions.)
 
 ### Installation
 

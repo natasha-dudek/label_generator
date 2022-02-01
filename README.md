@@ -14,4 +14,4 @@ pip install requirements.txt
 
 Fire up the wine_tasting_generator.ipynb jupyter notebook.
 
-If you want to train your own model, you will need to source your own GloVe embeddings and training data. Most of the data used for the project is from the [_Wine Reviews_ dataset on Kaggle](https://www.kaggle.com/zynicide/wine-reviews), which was scrapped from the Wine Enthusiast website. I also scrapped data from the [SAQ products website](https://www.saq.com/en/products).
+To train your own model, you will need to source your own GloVe embeddings and training data. Most of the data used for the project is from the [_Wine Reviews_ dataset on Kaggle](https://www.kaggle.com/zynicide/wine-reviews), which was scrapped from the Wine Enthusiast website. I also scrapped data from the [SAQ products website](https://www.saq.com/en/products).

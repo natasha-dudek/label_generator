@@ -2,7 +2,7 @@
 
 The year is 2065 and you're at a glamorous ball with the finest of high society. One of your companions leans over and asks what you think of the wine. Your unsophiticated palate has absolutely no idea -- it tastes like wine. 
 
-Luckily you are prepared and ask your neural implant to generate a wine tasting description. You proceed to share it outloud with your circle of friends, frenemies, acquaintances, and whoever else is standing around. They nod at your wine-tasting wisdom and declare you an expert sommelier! 
+Luckily you are prepared and ask your neural implant to generate a wine tasting description using your custom ML model designed for exactly this purpose. You proceed to share the tasting description outloud with your circle of friends, frenemies, acquaintances, and whoever else is standing around. They nod at your wine-tasting wisdom and declare you an expert sommelier! 
 
 (This is a just-for-fun project where I developed an LSTM that generates wine tasting descriptions.)
 
